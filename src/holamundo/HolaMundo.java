@@ -17,6 +17,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Esta es la primera modificacion");
+        System.out.println("Segunda modificacion en la linea conflictiva");
     }
     
 }
